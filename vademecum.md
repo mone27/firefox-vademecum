@@ -1,34 +1,52 @@
-**_Si consiglia di leggere prima il file README.md_**
+<html markdown=1>
+    <head>
+        <title>Volantino Vademecum (Fronte) VG</title>
+        <meta http-equiv="content-type" content="text/html; charset=UTF-16" />
+        <link rel="stylesheet" href="./html/stile_VG.css" />
+    </head>
+<body markdown=1>
+<div id=body>
+<div id=titolo_principale markdown=1 >
+Scopri Firefox e Mozilla!
+</div>
+<div id=descrizione_principale markdown=1 >
+Una breve presentazione di Firefox e di Mozilla
+</div>
+<div id="presentazione" markdown=1 >
 
-# Scopri Firefox e Mozilla!
+<div id=titolo markdown=1 >
+Presentazione
+</div>
 
-##### Una breve presentazione di Firefox e di Mozilla
-
-Capitoli:
-
-* Presentazione
-* Perché scegliere Firefox?
-* Novità
-* Estensioni
-* Altri progetti Mozilla
-* Vuoi contribuire?
-
-### Presentazione
-
+<div id=descrizione markdown=1 >
 Innanzitutto è doveroso spiegare che cos'è _Firefox_. È un browser web **unico** che mette al primo posto gli utenti, ha il codice sorgente libero (quindi tutti possono analizzarlo e modificarlo), è disponibile per tutti i principali sistemi operativi, è personalizzabile, è versatile, è veloce e, molto importante, è **sicuro**.
 **Mozilla Foundation** è l'organizzazione _senza fini_ di lucro che, da oltre 15 anni, supporta Firefox e altri numerosi progetti. Questa organizzazione ha più di 10.000 **volontari**, provenienti da ogni parte del _globo_.
 La comunità che opera in Italia prende il nome di _Mozilla Italia_; si occupa di tradurre progetti e siti web, ma anche di realizzare e partecipare a eventi, aiutare gli utenti, e molto altro.
 Per questi motivi chiunque è il benvenuto: la **collaborazione** è il fulcro di ogni comunità.
 Trovi Mozilla Italia sia sul _forum_ (**forum.mozillaitalia.orgs**) sia sui canali _Telegram_ (**@mozItaHub**).
+</div>
+</div>
 
-### Perché scegliere Firefox?
 
+<div id="perche_scegliere_firefox" markdown=1 >
+
+<div id="sub_titolo" markdown=1 >
+Perché scegliere Firefox?
+</div>
+
+<div id="sub_descrizione" markdown=1 >
 Firefox è creato **dagli** utenti **per** gli utenti. Non è realizzato per guadagnare (Mozilla è una fondazione no profit), ma per **offrire** un'esperienza di navigazione **unica**.
-Scegli il browser **libero**, **sicuro**, **affidabile** e **indipendente**. Scegli Firefox!
+Scegli il browser **libero**, **sicuro**, **affidabile** e **indipendente**. <font id="scegli_firefox">Scegli Firefox!</font>
+</div>
 
-##### Libertà e personalizzazione
+<div id="sez1" markdown=1 >
+<div id="titolo" markdown=1 >
+Libertà e personalizzazione
+</div>
+<div id="descrizione" markdown=1 >
 Firefox è il browser davvero “personale”. Grazie alle migliaia di estensioni disponibili è possibile aggiungere **nuove funzionalità** e, se non trovi l'estensione adatta alle tue esigenze, puoi svilupparla tu stesso. Inoltre, la moltitudine di temi disponibili consente di personalizzare anche l'interfaccia grafica e, se non dovessi trovare un tema che ti piace, puoi crearne uno tutto tuo!
-
+</div>
+</div>
 ##### Sicurezza e privacy
 
 La **sicurezza** sul Web è fondamentale: Firefox integra moltissime funzioni in grado di migliorare la sicurezza della navigazione sul Web come, ad esempio, la protezione anti-phishing, la gestione avanzata delle password, il controllo dei cookie e le impostazioni di sicurezza personalizzate. Il sistema di aggiornamento automatico consente di mantenere il browser sempre aggiornato all’ultima versione disponibile.
@@ -96,3 +114,6 @@ Test Pilot è un progetto sviluppato da Mozilla e permette agli utenti di essere
 
 Il tuo aiuto è fondamentale per mantenere il Web una risorsa libera, accessibile e pubblica. I nostri **volontari** quotidianamente lavorano affinché questo sia possibile. Non è necessario che tu abbia delle abilità specifiche. Tra di noi potrai confrontarti con grafici, ingegneri, informatici, linguisti, studenti e insegnanti. Il nostro fattore comune è la volontà e la consapevolezza che l’unione fa la forza.  
 Saremo a tua disposizione e disponibili ad aiutarti lungo tutto questo tuo fantastico percorso all’interno della nostra community italiana. Per conoscere meglio tutto questo, apprendere nuove competenze e contribuire a migliorare il Web, visita _[mozillaitalia.org](http://mozillaitalia.org)_!
+</div>
+</body>
+</html>
